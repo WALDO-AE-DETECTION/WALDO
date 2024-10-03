@@ -1,6 +1,4 @@
-# <img src="images/logo.png" alt="Waldo Logo" width="25"/> Waldo: Automated Adverse Event Detection
-
-
+<img src="images/logo.png" alt="Waldo Logo" width="50" style="float:left; margin-right:10px;"/> 
 Welcome to the official website of **Waldo**, a cutting-edge open-source tool for automated detection of Adverse Events (AEs) in unstructured text data. Waldo is designed to assist researchers and healthcare professionals in identifying potential adverse events, such as side effects or complications, from real-world narratives like social media posts.
 
 ## About the Project
