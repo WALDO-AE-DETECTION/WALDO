@@ -35,7 +35,7 @@ We have provided easy-to-follow guides to get Waldo up and running for your spec
 
 ## Research Collaboration
 
-Waldo is part of a larger collaborative research effort involving top-tier institutions such as **Johns Hopkins University**, **University of California San Diego**, and others. This research focuses on improving the automation of adverse event detection in the healthcare domain, particularly for cannabis-derived products.
+Waldo is part of a larger collaborative research effort involving institutions such as **Johns Hopkins University**, **University of California San Diego**, and others. This research focuses on improving the automation of adverse event detection in the healthcare domain, particularly for cannabis-derived products.
 
 📄 The full research paper will be available here upon publication. Stay tuned for updates.
 
