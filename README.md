@@ -1,5 +1,7 @@
 # Waldo: Automated Discovery of Adverse Events from Unstructured Self Reports
-![Waldo Logo](images/logo.png) 
+
+<img src="images/logo.png" alt="Waldo Logo" width="200"/>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
 ![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
 
