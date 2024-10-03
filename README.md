@@ -21,7 +21,7 @@ This project is part of a collaborative study involving researchers from Johns H
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/iMvijay23/Waldo-AE-Detection.git
+git clone https://github.com/WALDO-AE-DETECTION/WALDO.git
 cd Waldo-AE-Detection
 pip install -r requirements.txt
 ```
